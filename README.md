@@ -1,3 +1,6 @@
+# Drive báo cáo
+- https://drive.google.com/drive/folders/15PXfj1tGulj6ya1BPlVjj_NDqguE6fEk?usp=sharing (Báo gồm source code, screenshot, báo cáo, QR CODE)
+
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Status : Code optimization.
 
 ## HotSales-POS
